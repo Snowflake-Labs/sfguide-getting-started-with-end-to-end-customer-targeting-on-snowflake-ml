@@ -1,0 +1,1 @@
+# sfguide-getting-started-with-end-to-end-customer-targeting-on-snowflake-ml
