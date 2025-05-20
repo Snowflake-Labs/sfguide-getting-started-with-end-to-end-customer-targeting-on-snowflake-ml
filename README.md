@@ -1,4 +1,4 @@
-# sfguide-getting-started-with-end-to-end-customer-targeting-on-snowflake-ml
+# Getting Started with End-to-End Customer Targeting Using Snowflake ML
 
 ## Overview
 
