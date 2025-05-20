@@ -30,4 +30,4 @@ This guide walks through a complete, end-to-end machine learning workflow within
 
 ## Getting Started
 
-For prerequisites and environment setup, please refer to the QuickStart Guide.
+For prerequisites and environment setup, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/getting-started-with-e2e-customer-targeting-with-snowflake-ml/index.html?index=..%2F..index#2).
